@@ -1,1 +1,1 @@
-# basic_tutorial_git
+This tutorial was taken from https://githowto.com/ru
