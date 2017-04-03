@@ -1,0 +1,14 @@
+1) to understand where did your .gitconfig is located type:
+
+        git config --list --show-origin
+
+sample output >>
+file:"C:\\ProgramData/Git/config"       core.symlinks=false
+file:"C:\\ProgramData/Git/config"       core.autocrlf=true
+file:"C:\\ProgramData/Git/config"       core.fscache=true
+file:"C:\\Program Files\\Git\\mingw64/etc/gitconfig"    credential.helper=manager
+file:.git/config        core.repositoryformatversion=0
+file:.git/config        core.filemode=false
+file:.git/config        core.ignorecase=true
+file:.git/config        remote.origin.url=https://github.com/dverbovskiy/basic_git_conspectus.git
+
